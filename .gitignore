@@ -1,10 +1,14 @@
 .vscode
 .idea
 
+.DS_Store
+
 .cache
 .sass-cache
 
 node_modules
+
+resources
 
 server
 css
